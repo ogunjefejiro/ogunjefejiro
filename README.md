@@ -16,11 +16,11 @@
 
 Senior Frontend Developer with **5+ years** delivering React, Next.js, and TypeScript applications across SaaS, logistics, and e-commerce. I specialize in real-time features, performance optimization, and CI/CD — and I've led teams as well as built solo.
 
-- 🔭 Currently building recruiter & candidate dashboards at **[nxmoov](#)** — real-time hiring platform
-- 🚀 Founder of **[Cybersweeft Solutions](#)** — Lagos-based software consultancy (2020–present)
+- 🔭 Currently building recruiter & candidate dashboards at **[nxmoov](#)** - real-time hiring platform
+- 🚀 Founder of **[Cybersweeft Solutions](#)** - Lagos-based software consultancy (2020–present)
 - 🌍 Building independent products for the Nigerian market: **Naijolt**, **RouteNaija**
 - 🎓 M.Eng. Electrical/Electronics Engineering (Distinction), Afe Babalola University
-- ⚡ Background in green energy research — now applying that domain knowledge to solar-tech SaaS
+- ⚡ Background in green energy research - now applying that domain knowledge to solar-tech SaaS
 
 <br/>
 
@@ -84,27 +84,4 @@ Senior Frontend Developer with **5+ years** delivering React, Next.js, and TypeS
 |---|---|---|
 | **[Naijolt](https://naijolt.com)** | Free solar sizing tool for Nigerian homes/businesses — load calculator, battery/panel sizing, Naira-denominated pricing, AI-powered natural language load input | Next.js, React, OpenAI API |
 | **[RouteNaija](https://useroutenaija.com)** | Route optimization SaaS for Nigerian delivery & logistics businesses, built for Lagos road realities | Next.js, Supabase, Google Maps Platform |
-| **[Cybersweeft Solutions](#)** | Software consultancy delivering React/Next.js web apps, e-commerce builds, and digital transformation for Nigerian businesses | React, Next.js |
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ogunjefejiro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogunjefejiro&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogunjefejiro&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ogunjefejiro&theme=tokyo-night&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ogunjefejiro&label=Profile%20Views&color=347e7e&style=flat" />
-</div>
+| **[Cybersweeft Solutions](https://cybersweeft.com)** | Software consultancy delivering React/Next.js web apps, e-commerce builds, and digital transformation for Nigerian businesses | React, Next.js |
