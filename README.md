@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-Senior Frontend Developer with **5+ years** delivering React, Next.js, and TypeScript applications across SaaS, logistics, and e-commerce. I specialize in real-time features, performance optimization, and CI/CD — and I've led teams as well as built solo.
+Senior Frontend Developer with **5+ years** delivering React, Next.js, and TypeScript applications across SaaS, logistics, and e-commerce. I specialize in real-time features, performance optimization, and CI/CD - and I've led teams as well as built solo.
 
 - 🔭 Currently building recruiter & candidate dashboards at **[nxmoov](#)** - real-time hiring platform
 - 🚀 Founder of **[Cybersweeft Solutions](#)** - Lagos-based software consultancy (2020–present)
